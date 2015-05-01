@@ -1,0 +1,34 @@
+ <%@ Master Language="C#" AutoEventWireup="true" %>
+  
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  
+ <html xmlns="http://www.w3.org/1999/xhtml">
+ <head runat="server">
+     <title></title>
+ </head>
+ <body>
+     <form id="form1" runat="server">
+ <asp:ScriptManager ID="ScriptManager1" runat="server" />
+  <div id="container">
+       <div id="Header1">
+             <asp:contentplaceholder id="Header1" runat="server" />
+           <div id="search">
+             <asp:contentplaceholder id="search" runat="server" />
+                                        </div>
+                             </div>
+                         <div id="Header2">
+             <asp:contentplaceholder id="Header2" runat="server" />
+                             </div>
+                  <div id="Sidebar">
+             <asp:contentplaceholder id="Sidebar" runat="server" />
+         </div>
+         <div id="Content">
+             <asp:contentplaceholder id="Content" runat="server" />
+         </div>
+                   <div id="Footer">
+             <asp:contentplaceholder id="Footer" runat="server" />
+         </div>
+            </div>
+     </form>
+ </body>
+ </html>

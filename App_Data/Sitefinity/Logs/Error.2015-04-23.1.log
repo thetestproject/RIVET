@@ -1,0 +1,118 @@
+----------------------------------------
+Timestamp: 4/22/2015 1:46:59 PM
+
+Message: HandlingInstanceID: 8d7d0192-547a-44d5-9cb4-8d7ee5777028
+An exception of type 'System.IO.DirectoryNotFoundException' occurred and was caught.
+------------------------------------------------------------------------------------
+04/22/2015 09:46:59
+Type : System.IO.DirectoryNotFoundException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not find a part of the path 'C:\Program Files (x86)\Telerik\Sitefinity\Projects\RIVET\App_Data\Sitefinity\WebsiteTemplates\RIVET\App_Master\Global'.
+Source : mscorlib
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void WinIOError(Int32, System.String)
+HResult : -2147024893
+Stack Trace :    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.FileSystemEnumerableFactory.CreateFileInfoIterator(String path, String originalUserPath, String searchPattern, SearchOption searchOption)
+   at Telerik.Sitefinity.Web.UI.ThemeController.GetExternalStyleSheets(ThemeElement theme, Page page)
+   at Telerik.Sitefinity.Web.UI.ThemeController.GetGlobalStyles(Page page)
+   at Telerik.Sitefinity.Web.RouteHandler.Handler_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Additional Info:
+
+MachineName : PC-LAMB-J
+TimeStamp : 4/22/2015 1:46:59 PM
+FullName : Telerik.Sitefinity.Utilities, Version=8.0.5700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : a5e44346-2-130741831617278456
+ThreadIdentity : admin
+WindowsIdentity : MCMASTER\lambjc
+Requested URL : http://localhost:12072/RIVET/Sitefinity/Template/3ceee709-3182-6295-a7f2-ff00006904fe?theme=RIVETNew
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: PC-LAMB-J
+
+App Domain: a5e44346-2-130741831617278456
+
+ProcessId: 3788
+
+Process Name: C:\Program Files (x86)\Telerik\Sitefinity\Sitefinity.exe
+
+Thread Name: 
+
+Win32 ThreadId:4380
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 4/22/2015 1:47:55 PM
+
+Message: HandlingInstanceID: 8cb454fb-5b28-4877-a81c-82ad38ca31b1
+An exception of type 'System.IO.DirectoryNotFoundException' occurred and was caught.
+------------------------------------------------------------------------------------
+04/22/2015 09:47:55
+Type : System.IO.DirectoryNotFoundException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not find a part of the path 'C:\Program Files (x86)\Telerik\Sitefinity\Projects\RIVET\App_Data\Sitefinity\WebsiteTemplates\RIVET\App_Themes\Global'.
+Source : mscorlib
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void WinIOError(Int32, System.String)
+HResult : -2147024893
+Stack Trace :    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.FileSystemEnumerableFactory.CreateFileInfoIterator(String path, String originalUserPath, String searchPattern, SearchOption searchOption)
+   at Telerik.Sitefinity.Web.UI.ThemeController.GetExternalStyleSheets(ThemeElement theme, Page page)
+   at Telerik.Sitefinity.Web.UI.ThemeController.GetGlobalStyles(Page page)
+   at Telerik.Sitefinity.Web.RouteHandler.Handler_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Additional Info:
+
+MachineName : PC-LAMB-J
+TimeStamp : 4/22/2015 1:47:55 PM
+FullName : Telerik.Sitefinity.Utilities, Version=8.0.5700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : a5e44346-2-130741831617278456
+ThreadIdentity : admin
+WindowsIdentity : MCMASTER\lambjc
+Requested URL : http://localhost:12072/RIVET/Sitefinity/Template/3ceee709-3182-6295-a7f2-ff00006904fe?theme=RIVETNew
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: PC-LAMB-J
+
+App Domain: a5e44346-2-130741831617278456
+
+ProcessId: 3788
+
+Process Name: C:\Program Files (x86)\Telerik\Sitefinity\Sitefinity.exe
+
+Thread Name: 
+
+Win32 ThreadId:10936
+
+Extended Properties: 
+----------------------------------------

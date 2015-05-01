@@ -1,0 +1,171 @@
+----------------------------------------
+Timestamp: 4/24/2015 7:28:53 PM
+
+Message: HandlingInstanceID: 1c04eb2e-2558-40e5-9010-ae21895e6ff7
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+04/24/2015 15:28:53
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : File does not exist.
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Boolean ProcessRequestForNonMapPathBasedVirtualFile(System.Web.HttpRequest, System.Web.HttpResponse, System.String)
+HResult : -2147467259
+Stack Trace :    at System.Web.StaticFileHandler.ProcessRequestForNonMapPathBasedVirtualFile(HttpRequest request, HttpResponse response, String overrideVirtualPath)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Additional Info:
+
+MachineName : PC-LAMB-J
+TimeStamp : 4/24/2015 7:28:53 PM
+FullName : Telerik.Sitefinity.Utilities, Version=8.0.5700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : a5e44346-3-130742891399671794
+ThreadIdentity : admin
+WindowsIdentity : MCMASTER\lambjc
+Requested URL : http://localhost:12072/RIVET/Sitefinity/Template/search_results.html?cx=017110053273856412988:akq6v26t6nm&q=hgjghjghj&sa.x=6&sa.y=12&cof=FORID:11&hq=inurl:rviet.mcmaster.ca
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: PC-LAMB-J
+
+App Domain: a5e44346-3-130742891399671794
+
+ProcessId: 3788
+
+Process Name: C:\Program Files (x86)\Telerik\Sitefinity\Sitefinity.exe
+
+Thread Name: 
+
+Win32 ThreadId:11740
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 4/24/2015 7:32:44 PM
+
+Message: HandlingInstanceID: 76cfb199-37ad-45af-b303-d1532a986d21
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+04/24/2015 15:32:44
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : File does not exist.
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Boolean ProcessRequestForNonMapPathBasedVirtualFile(System.Web.HttpRequest, System.Web.HttpResponse, System.String)
+HResult : -2147467259
+Stack Trace :    at System.Web.StaticFileHandler.ProcessRequestForNonMapPathBasedVirtualFile(HttpRequest request, HttpResponse response, String overrideVirtualPath)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Additional Info:
+
+MachineName : PC-LAMB-J
+TimeStamp : 4/24/2015 7:32:44 PM
+FullName : Telerik.Sitefinity.Utilities, Version=8.0.5700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : a5e44346-3-130742891399671794
+ThreadIdentity : admin
+WindowsIdentity : MCMASTER\lambjc
+Requested URL : http://localhost:12072/RIVET/search_results
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: PC-LAMB-J
+
+App Domain: a5e44346-3-130742891399671794
+
+ProcessId: 3788
+
+Process Name: C:\Program Files (x86)\Telerik\Sitefinity\Sitefinity.exe
+
+Thread Name: 
+
+Win32 ThreadId:13308
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 4/24/2015 7:33:02 PM
+
+Message: HandlingInstanceID: 271a48a7-ebde-433d-87f6-daf433b4ad49
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+04/24/2015 15:33:02
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : File does not exist.
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Boolean ProcessRequestForNonMapPathBasedVirtualFile(System.Web.HttpRequest, System.Web.HttpResponse, System.String)
+HResult : -2147467259
+Stack Trace :    at System.Web.StaticFileHandler.ProcessRequestForNonMapPathBasedVirtualFile(HttpRequest request, HttpResponse response, String overrideVirtualPath)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Additional Info:
+
+MachineName : PC-LAMB-J
+TimeStamp : 4/24/2015 7:33:02 PM
+FullName : Telerik.Sitefinity.Utilities, Version=8.0.5700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : a5e44346-3-130742891399671794
+ThreadIdentity : admin
+WindowsIdentity : MCMASTER\lambjc
+Requested URL : http://localhost:12072/RIVET/search_results
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: PC-LAMB-J
+
+App Domain: a5e44346-3-130742891399671794
+
+ProcessId: 3788
+
+Process Name: C:\Program Files (x86)\Telerik\Sitefinity\Sitefinity.exe
+
+Thread Name: 
+
+Win32 ThreadId:6856
+
+Extended Properties: 
+----------------------------------------
